@@ -6,4 +6,4 @@ class basicmathoperate{
         float minus(float a, float b);
         float times(float a, float b);
         float divide(float a, float b);
-}
+};
